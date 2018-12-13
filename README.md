@@ -7,3 +7,8 @@ svn checkout source_path target_dir
 svn checkout source_path shop.vnexpress.dev
 # commit 
 svn ci
+# ll
+liệt kê thư mục
+# cd ..
+back ra ngoài 1 thư mục
+
