@@ -11,4 +11,7 @@ svn ci
 liệt kê thư mục
 # cd ..
 back ra ngoài 1 thư mục
+# chmod 777 filename
+phân quyền
+
 
