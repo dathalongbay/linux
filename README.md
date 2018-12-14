@@ -7,6 +7,8 @@ svn checkout source_path target_dir
 svn checkout source_path shop.vnexpress.dev
 # commit 
 svn ci -m ''
+# update
+svn update
 # ll
 liệt kê thư mục
 # cd ..
